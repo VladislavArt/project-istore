@@ -1,0 +1,10 @@
+.info {
+	max-width: 400px;
+
+	padding: 20px;
+	margin: 20px auto 40px;
+
+	border-radius: 20px;
+	background-color: #ddeff5;
+	text-align: center;
+}

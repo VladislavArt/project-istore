@@ -1,0 +1,26 @@
+
+.filter__title {
+	margin-bottom: 10px;
+	font-size: 14px;
+}
+
+.filter__body--price {
+	display: flex;
+	gap: 5px;
+	align-items: center;
+}
+
+.filter__body--range {
+	padding: 20px 0 0;
+}
+
+.filter__body--checkbox-list {
+	display: grid;
+	gap: 10px;
+}
+
+.filter__body-colors-list {
+	display: flex;
+	gap: 10px;
+	flex-wrap: wrap;
+}

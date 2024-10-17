@@ -1,0 +1,13 @@
+.main {
+	padding-top: 30px;
+	padding-bottom: 80px;
+
+	display: grid;
+	grid-template-columns: 3fr 9fr;
+	gap: 20px;
+}
+
+.main--empty {
+	display: block;
+	width: 100%;
+}

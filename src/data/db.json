@@ -1,0 +1,1234 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imgName": "appleWatch",
+      "title": "Часы Apple Watch Белый",
+      "price": 18000,
+      "cat": "watch",
+      "memory": "0 Tb",
+      "color": "white",
+      "desc": "Стильные и современные часы appleWatch в белом цвете"
+    },
+    {
+      "id": 2,
+      "imgName": "imac",
+      "title": "iMac",
+      "price": 140000,
+      "cat": "comp",
+      "memory": "2 Tb",
+      "color": "white",
+      "desc": "Мощный настольный компьютер iMac с памятью 2 Tb"
+    },
+    {
+      "id": 3,
+      "imgName": "ipad",
+      "title": "iPad",
+      "price": 60000,
+      "cat": "tablet",
+      "memory": "64 Gb",
+      "color": "gray",
+      "desc": "Удобный планшет iPad с памятью 64 Gb"
+    },
+    {
+      "id": 4,
+      "imgName": "iphone",
+      "title": "iPhone",
+      "price": 50000,
+      "cat": "phone",
+      "memory": "128 Gb",
+      "color": "black",
+      "desc": "Современный смартфон iphone с памятью 128 Gb "
+    },
+    {
+      "id": 5,
+      "imgName": "macmini",
+      "title": "MacMini",
+      "price": 78280,
+      "cat": "comp",
+      "memory": "1 Tb",
+      "color": "space-gray",
+      "desc": "Компактный компьютер MacMini с памятью 1 Tb"
+    },
+    {
+      "id": 6,
+      "imgName": "macpro",
+      "title": "MacPro",
+      "price": 120000,
+      "cat": "comp",
+      "memory": "1 Tb",
+      "color": "black",
+      "desc": "Современная профессиональная колонка MacPro 2024 с памятью 512 Gb"
+    },
+    {
+      "id": 7,
+      "imgName": "macprox",
+      "title": "MacProx",
+      "price": 180000,
+      "cat": "comp",
+      "memory": "2 Tb",
+      "color": "gray",
+      "desc": "Современный профессиональный компьютер MacPro 2022 с памятью 2 Tb"
+    },
+    {
+      "id": 8,
+      "imgName": "macbook",
+      "title": "Apple MacBook Air 13",
+      "price": 110000,
+      "cat": "note",
+      "memory": "512 Gb",
+      "color": "gray",
+      "desc": "Ультратонкий ноутбук Apple MacBook Air 13 с памятью 512 Гб в сером цвете"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "slug": "all",
+      "title": "Все"
+    },
+    {
+      "id": 2,
+      "slug": "watch",
+      "title": "Часы"
+    },
+    {
+      "id": 3,
+      "slug": "comp",
+      "title": "Компьютеры"
+    },
+    {
+      "id": 4,
+      "slug": "tablet",
+      "title": "Планшеты"
+    },
+    {
+      "id": 5,
+      "slug": "phone",
+      "title": "Смартфоны"
+    },
+    {
+      "id": 6,
+      "slug": "note",
+      "title": "Ноутбуки"
+    }
+  ],
+  "filterValues": {
+    "price": {
+      "min": 0,
+      "max": 200000
+    },
+    "memory": [
+      "0 Tb",
+      "64 GB",
+      "128 Gb",
+      "512 Gb",
+      "1 Tb",
+      "2 Tb"
+    ],
+    "colors": [
+      "white",
+      "gray",
+      "space-gray",
+      "black"
+    ]
+  },
+  "orders": [
+    {
+      "name": "Vladislav",
+      "email": "vrogi@mail.ru",
+      "items": [
+        {
+          "id": 7,
+          "imgName": "macprox",
+          "title": "MacProx",
+          "price": 180000,
+          "cat": "comp",
+          "memory": "2 Tb",
+          "color": "gray",
+          "desc": "Современный профессиональный компьютер MacPro 2022 с памятью 2 Tb",
+          "count": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Vladislav",
+      "email": "vrogi@mail.ru",
+      "items": [],
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 15
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 19
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 20
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 21
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 22
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 23
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 24
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 25
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 26
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 27
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 28
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 29
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 30
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 31
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 32
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 33
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 34
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 35
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 36
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 37
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 38
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 39
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 40
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 41
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 42
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 43
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 44
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 45
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 46
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 47
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 48
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 49
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 50
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 51
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 52
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 53
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 54
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 55
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 56
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 57
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 58
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 59
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 60
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 61
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 62
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 63
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 64
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 65
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 66
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 67
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 68
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 69
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 70
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 71
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 72
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 73
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 74
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 75
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 76
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 77
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 78
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 79
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 80
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 81
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 82
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 83
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 84
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 85
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 86
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 87
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 88
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 89
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 90
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 91
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 92
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 93
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 94
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 95
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 96
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 97
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 98
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 99
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 100
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 101
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 102
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 103
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 104
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 105
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 106
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 107
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 108
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 109
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 110
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 111
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 112
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 113
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 114
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 115
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 116
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 117
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 118
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 119
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 120
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 121
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 122
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 123
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 124
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 125
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 126
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 127
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 128
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 129
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 130
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 131
+    },
+    {
+      "name": "",
+      "email": "",
+      "items": [],
+      "id": 132
+    },
+    {
+      "name": "Vladislav",
+      "email": "vrogL@mail.ru",
+      "items": [],
+      "id": 133
+    },
+    {
+      "name": "Vladislav",
+      "email": "vrogio@mail.ru",
+      "items": [],
+      "id": 134
+    },
+    {
+      "name": "Vladislav",
+      "email": "vrogio@mail.ru",
+      "items": [],
+      "id": 135
+    },
+    {
+      "name": "Vladislav",
+      "email": "21212121@mail.ru",
+      "items": [
+        {
+          "id": 2,
+          "imgName": "imac",
+          "title": "iMac",
+          "price": 140000,
+          "cat": "comp",
+          "memory": "2 Tb",
+          "color": "white",
+          "desc": "Мощный настольный компьютер iMac с памятью 2 Tb",
+          "count": 1
+        },
+        {
+          "id": 5,
+          "imgName": "macmini",
+          "title": "MacMini",
+          "price": 78280,
+          "cat": "comp",
+          "memory": "1 Tb",
+          "color": "space-gray",
+          "desc": "Компактный компьютер MacMini с памятью 1 Tb",
+          "count": 1
+        }
+      ],
+      "id": 136
+    },
+    {
+      "name": "vld",
+      "email": "vld@mail.ru",
+      "items": [],
+      "id": 137
+    },
+    {
+      "name": "Vladislav",
+      "email": "vld@mail.ru",
+      "items": [
+        {
+          "id": 1,
+          "imgName": "appleWatch",
+          "title": "Часы Apple Watch Белый",
+          "price": 18000,
+          "cat": "watch",
+          "memory": "0 Tb",
+          "color": "white",
+          "desc": "Стильные и современные часы appleWatch в белом цвете",
+          "count": 5
+        },
+        {
+          "id": 5,
+          "imgName": "macmini",
+          "title": "MacMini",
+          "price": 78280,
+          "cat": "comp",
+          "memory": "1 Tb",
+          "color": "space-gray",
+          "desc": "Компактный компьютер MacMini с памятью 1 Tb",
+          "count": 3
+        }
+      ],
+      "id": 138
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 2,
+          "imgName": "imac",
+          "title": "iMac",
+          "price": 140000,
+          "cat": "comp",
+          "memory": "2 Tb",
+          "color": "white",
+          "desc": "Мощный настольный компьютер iMac с памятью 2 Tb",
+          "count": 1
+        }
+      ],
+      "id": 139
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [],
+      "id": 140
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [],
+      "id": 141
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [],
+      "id": 142
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 1,
+          "imgName": "appleWatch",
+          "title": "Часы Apple Watch Белый",
+          "price": 18000,
+          "cat": "watch",
+          "memory": "0 Tb",
+          "color": "white",
+          "desc": "Стильные и современные часы appleWatch в белом цвете",
+          "count": 1
+        }
+      ],
+      "id": 143
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 1,
+          "imgName": "appleWatch",
+          "title": "Часы Apple Watch Белый",
+          "price": 18000,
+          "cat": "watch",
+          "memory": "0 Tb",
+          "color": "white",
+          "desc": "Стильные и современные часы appleWatch в белом цвете",
+          "count": 1
+        },
+        {
+          "id": 2,
+          "imgName": "imac",
+          "title": "iMac",
+          "price": 140000,
+          "cat": "comp",
+          "memory": "2 Tb",
+          "color": "white",
+          "desc": "Мощный настольный компьютер iMac с памятью 2 Tb",
+          "count": 1
+        }
+      ],
+      "id": 144
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 2,
+          "imgName": "imac",
+          "title": "iMac",
+          "price": 140000,
+          "cat": "comp",
+          "memory": "2 Tb",
+          "color": "white",
+          "desc": "Мощный настольный компьютер iMac с памятью 2 Tb",
+          "count": 1
+        },
+        {
+          "id": 5,
+          "imgName": "macmini",
+          "title": "MacMini",
+          "price": 78280,
+          "cat": "comp",
+          "memory": "1 Tb",
+          "color": "space-gray",
+          "desc": "Компактный компьютер MacMini с памятью 1 Tb",
+          "count": 1
+        }
+      ],
+      "id": 145
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 1,
+          "imgName": "appleWatch",
+          "title": "Часы Apple Watch Белый",
+          "price": 18000,
+          "cat": "watch",
+          "memory": "0 Tb",
+          "color": "white",
+          "desc": "Стильные и современные часы appleWatch в белом цвете",
+          "count": 4
+        },
+        {
+          "id": 4,
+          "imgName": "iphone",
+          "title": "iPhone",
+          "price": 50000,
+          "cat": "phone",
+          "memory": "128 Gb",
+          "color": "black",
+          "desc": "Современный смартфон iphone с памятью 128 Gb ",
+          "count": 1
+        },
+        {
+          "id": 7,
+          "imgName": "macprox",
+          "title": "MacProx",
+          "price": 180000,
+          "cat": "comp",
+          "memory": "2 Tb",
+          "color": "gray",
+          "desc": "Современный профессиональный компьютер MacPro 2022 с памятью 2 Tb",
+          "count": 5
+        }
+      ],
+      "id": 146
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 2,
+          "imgName": "imac",
+          "title": "iMac",
+          "price": 140000,
+          "cat": "comp",
+          "memory": "2 Tb",
+          "color": "white",
+          "desc": "Мощный настольный компьютер iMac с памятью 2 Tb",
+          "count": 1
+        }
+      ],
+      "id": 147
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 1,
+          "imgName": "appleWatch",
+          "title": "Часы Apple Watch Белый",
+          "price": 18000,
+          "cat": "watch",
+          "memory": "0 Tb",
+          "color": "white",
+          "desc": "Стильные и современные часы appleWatch в белом цвете",
+          "count": 1
+        },
+        {
+          "id": 3,
+          "imgName": "ipad",
+          "title": "iPad",
+          "price": 60000,
+          "cat": "tablet",
+          "memory": "64 Gb",
+          "color": "gray",
+          "desc": "Удобный планшет iPad с памятью 64 Gb",
+          "count": 2
+        },
+        {
+          "id": 5,
+          "imgName": "macmini",
+          "title": "MacMini",
+          "price": 78280,
+          "cat": "comp",
+          "memory": "1 Tb",
+          "color": "space-gray",
+          "desc": "Компактный компьютер MacMini с памятью 1 Tb",
+          "count": 3
+        }
+      ],
+      "id": 148
+    }
+  ]
+}
