@@ -242,6 +242,155 @@
         }
       ],
       "id": 3
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 2,
+          "imgName": "imac",
+          "title": "iMac",
+          "price": 140000,
+          "cat": "comp",
+          "memory": "2 Tb",
+          "color": "white",
+          "desc": "Мощный настольный компьютер iMac с памятью 2 Tb",
+          "count": 1
+        },
+        {
+          "id": 3,
+          "imgName": "ipad",
+          "title": "iPad",
+          "price": 60000,
+          "cat": "tablet",
+          "memory": "64 Gb",
+          "color": "gray",
+          "desc": "Удобный планшет iPad с памятью 64 Gb",
+          "count": 1
+        },
+        {
+          "id": 4,
+          "imgName": "iphone",
+          "title": "iPhone",
+          "price": 50000,
+          "cat": "phone",
+          "memory": "128 Gb",
+          "color": "black",
+          "desc": "Современный смартфон iphone с памятью 128 Gb ",
+          "count": 2
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 4,
+          "imgName": "iphone",
+          "title": "iPhone",
+          "price": 50000,
+          "cat": "phone",
+          "memory": "128 Gb",
+          "color": "black",
+          "desc": "Современный смартфон iphone с памятью 128 Gb ",
+          "count": 1
+        },
+        {
+          "id": 5,
+          "imgName": "macmini",
+          "title": "MacMini",
+          "price": 78280,
+          "cat": "comp",
+          "memory": "1 Tb",
+          "color": "space-gray",
+          "desc": "Компактный компьютер MacMini с памятью 1 Tb",
+          "count": 2
+        },
+        {
+          "id": 6,
+          "imgName": "macpro",
+          "title": "MacPro",
+          "price": 120000,
+          "cat": "comp",
+          "memory": "1 Tb",
+          "color": "black",
+          "desc": "Современная профессиональная колонка MacPro 2024 с памятью 512 Gb",
+          "count": 1
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 1,
+          "imgName": "appleWatch",
+          "title": "Часы Apple Watch Белый",
+          "price": 18000,
+          "cat": "watch",
+          "memory": "0 Tb",
+          "color": "white",
+          "desc": "Стильные и современные часы appleWatch в белом цвете",
+          "count": 1
+        },
+        {
+          "id": 2,
+          "imgName": "imac",
+          "title": "iMac",
+          "price": 140000,
+          "cat": "comp",
+          "memory": "2 Tb",
+          "color": "white",
+          "desc": "Мощный настольный компьютер iMac с памятью 2 Tb",
+          "count": 1
+        },
+        {
+          "id": 3,
+          "imgName": "ipad",
+          "title": "iPad",
+          "price": 60000,
+          "cat": "tablet",
+          "memory": "64 Gb",
+          "color": "gray",
+          "desc": "Удобный планшет iPad с памятью 64 Gb",
+          "count": 1
+        },
+        {
+          "id": 8,
+          "imgName": "macbook",
+          "title": "Apple MacBook Air 13",
+          "price": 110000,
+          "cat": "note",
+          "memory": "512 Gb",
+          "color": "gray",
+          "desc": "Ультратонкий ноутбук Apple MacBook Air 13 с памятью 512 Гб в сером цвете",
+          "count": 1
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "Vladislav",
+      "email": "vladislav@mail.ru",
+      "items": [
+        {
+          "id": 1,
+          "imgName": "appleWatch",
+          "title": "Часы Apple Watch Белый",
+          "price": 18000,
+          "cat": "watch",
+          "memory": "0 Tb",
+          "color": "white",
+          "desc": "Стильные и современные часы appleWatch в белом цвете",
+          "count": 2
+        }
+      ],
+      "id": 7
     }
   ]
 }
